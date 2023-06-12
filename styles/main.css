@@ -64,8 +64,8 @@ li{
 }
 
 #profile-pic{
-    width: 250px;
-    height: 250px;
+    width: 450px;
+    height: 450px;
     object-fit: contain;
     border-radius: 50%;
 }
